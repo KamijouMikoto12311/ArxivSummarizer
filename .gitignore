@@ -1,0 +1,13 @@
+downloaded_pdfs
+__pycache__
+
+
+*.txt
+!requirements.txt
+
+*.pdf
+*.log
+
+temp*
+
+*.pyc

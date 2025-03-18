@@ -1,0 +1,3 @@
+{
+    "url": "https://arxiv.org/search/advanced?advanced=&terms-0-operator=OR&terms-0-term=AI+OR+%22machine+learning%22+OR+%22deep+learning%22&terms-0-field=title&terms-1-operator=AND&terms-1-term=chemistry+OR+chemical+OR+molecular+OR+materials&terms-1-field=abstract&classification-computer_science=y&classification-physics=y&classification-physics_archives=all&classification-statistics=y&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
+}
